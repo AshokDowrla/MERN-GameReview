@@ -1,0 +1,39 @@
+.filterContainer{
+    @media (max-width: 768px) { 
+
+        display: none !important;
+    }
+}
+
+
+.card{
+    margin-bottom: 10px !important;
+    background-color:#323754 ;
+    color: #db7c22;
+}
+
+.RatingContent{
+    position: relative;
+}
+.Rating{
+
+    position: absolute;
+    color: #fff;
+    background-color:green ;
+    padding-top: 2px;
+   padding-bottom: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    top:-20px;
+    left:0px;
+}
+
+.LogoContent{
+    position: relative;
+}
+.Logo{
+    
+    position: absolute;
+    top: -20px;
+    right: 0px;
+}
