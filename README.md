@@ -1,6 +1,9 @@
 # MERN-GameReview
 
+## DEMO
 
+   ## Check out Demo Website here: https://gamereview-fullstack.firebaseapp.com/
+   ![HomePage](images/Home.png?raw=true "Home")
 
 # STACK
 
