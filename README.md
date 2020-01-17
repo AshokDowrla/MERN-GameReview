@@ -20,7 +20,7 @@ Run 'npm install' in both frontend and backend folders
 
 Substitute key values for mongoDB
 
-Run 'npm start' for inside frontend and backend folders seperately
+Run 'npm start' for both frontend and backend folders seperately
 
 
 
