@@ -1,4 +1,17 @@
 # MERN-GameReview
+A MERN Stack Website to view all the games with their Rating scores, Genre, Editor's Choice or not and Platform available
+
+Search a game by keyword with minimum 3 charcter length
+
+View Toprated games
+
+Games by Genre
+
+Paginate the games
+
+
+
+
 
 ## DEMO
 
