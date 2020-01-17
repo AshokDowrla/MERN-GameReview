@@ -14,7 +14,7 @@ Games by Genre
 Paginate the games
 
 
-To run the code
+### To run the code
 
 Run 'npm install' in both frontend and backend folders
 
