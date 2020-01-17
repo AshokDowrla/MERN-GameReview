@@ -3,7 +3,7 @@
 ## DEMO
 
    ## Check out Demo Website here: https://gamereview-fullstack.firebaseapp.com/
-   ![HomePage](images/Home.png?raw=true "Home")
+   ![HomePage](images/Home-1.png?raw=true "Home")
 
 # STACK
 
