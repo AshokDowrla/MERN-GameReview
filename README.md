@@ -5,7 +5,7 @@
    ## Check out Demo Website here: https://gamereview-fullstack.firebaseapp.com/
 A MERN Stack Website to view all the games with their Rating scores, Genre, Editor's Choice or not and Platform available
 
-Search a game by keyword with minimum 3 charcter length
+Search a game by keyword with a minimum of 3 character length
 
 View Toprated games
 
@@ -20,7 +20,7 @@ Run 'npm install' in both frontend and backend folders
 
 Substitute key values for mongoDB
 
-Run 'npm start' for both frontend and backend folders seperately
+Run 'npm start' for both frontend and backend folders separately
 
 
 
