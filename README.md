@@ -3,7 +3,34 @@
 ## DEMO
 
    ## Check out Demo Website here: https://gamereview-fullstack.firebaseapp.com/
-   ![HomePage](images/Home.png?raw=true "Home")
+A MERN Stack Website to view all the games with their Rating scores, Genre, Editor's Choice or not and Platform available
+
+Search a game by keyword with a minimum of 3 character length
+
+View Toprated games
+
+Games by Genre
+
+Paginate the games
+
+
+### To run the code
+
+Run 'npm install' in both frontend and backend folders
+
+Substitute key values for mongoDB
+
+Run 'npm start' for both frontend and backend folders separately
+
+
+
+   ![HomePage](images/Home-1.png?raw=true "Home")
+   
+   ![SearchPage](images/Search-1.png?raw=true "Search")
+   ![Genre](images/Genre.png?raw=true "Genre")
+
+   ![Genre](images/Genre-2.png?raw=true "Genre")
+    
 
 # STACK
 
