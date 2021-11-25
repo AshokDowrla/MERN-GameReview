@@ -45,7 +45,4 @@ Run 'npm start' for both frontend and backend folders separately
    #### React-Bootsrap
    #### Bootstrap
 
-branch1 changes commit 1
-
-
-branch1 changes commit 2
+branch2 changes commit 1
